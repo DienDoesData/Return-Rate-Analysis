@@ -26,16 +26,29 @@ Composite Charts: Combined multiple dimensions (date, geography, product categor
 Designed an interactive Tableau dashboard with KPIs, filters, and visualizations to allow the CEO and leadership team to monitor and investigate return trends.
 
 ## Key Findings From the Data
+High Return Categories:
+Office Supplies and Furniture have the most returns compared to sales.
+Could point to quality or shipping issues.
 
-1.High-Return Product Categories: Office Supplies and Furniture showed the highest return rates relative to their sales volume, suggesting product quality or fulfillment issues.
-2.Sales vs. Returns Correlation: Subcategories with high sales (e.g., Chairs, Binders) also showed disproportionately high returns, indicating that volume alone does not explain return frequency.
-3.Customer Trends: A subset of repeat customers demonstrated higher-than-average return rates, signaling potential dissatisfaction or misuse of return policies.
-4.Geographic Patterns: Certain urban regions recorded significantly higher return rates, hinting at localized delivery or fulfillment challenges.
-5.Seasonality: Return rates spiked during Q4, aligning with holiday sales surges and suggesting that increased order volumes may strain quality control and logistics.
+Sales vs. Returns
+Big sellers like Chairs and Binders also get returned a lot.
+High sales don’t fully explain the high return rates.
+
+Customer Trends
+Some repeat customers return items more often.
+This may show dissatisfaction or overuse of return policies.
+
+Geographic Patterns
+Certain cities have higher return rates.
+Could be linked to delivery or local fulfillment problems.
+
+Seasonality
+Returns spike in Q4 (holiday season).
+Likely due to higher order volume stressing logistics and quality control.
 
 ## Recommendations
 
-Product & Vendor Review: Investigate high-return categories such as Office Supplies and Furniture to determine whether issues stem from quality, descriptions, or fulfillment errors.
+Product & Vendor Review: Investigate high-return categories such as Office Supplies and Furniture to determine whether issues stem from quality, descriptions, or fulfillment errors 
 Customer Policy Adjustments: Review return behavior of repeat customers with unusually high return rates; consider targeted communication or revised return policies.
 Operational Improvements: Focus on fulfillment processes in regions with elevated return rates to address potential logistical challenges.
 Seasonal Preparedness: Strengthen quality control and staffing during peak seasons to reduce errors leading to returns.
