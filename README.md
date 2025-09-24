@@ -1,7 +1,7 @@
 # Superstore Return-Rate Analysis
 
 ## Project Goal
-The goal of this project was to analyze customer return patterns at the Superstore to identify the root causes of returned orders. The CEO requested a clear understanding of why returns are occurring at such a high rate and what strategic actions can be taken to reduce them. The analysis aimed to quantify the financial and operational impact of returns and to provide data-driven insights that support process improvements.
+The goal of this project was to analyze customer return patterns for E-commerce website. Our goal identify the root causes of returned orders. The CEO requested a clear understanding of why returns are occurring at such a high rate and what strategic actions can be taken to reduce them. The analysis aimed to quantify the financial and operational impact of returns and to provide data-driven insights that support process improvements.
 <img src="dashboard.png" />
 
 ## Tools Used
